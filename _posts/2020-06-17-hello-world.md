@@ -3,7 +3,7 @@ title: Hello World
 categories:
 - General
 excerpt: |
-  Hello World !
+  Welcome to website and blog
 #feature_text: |
   ## The Pot Still
   #The modern pot still is a descendant of the alembic, an earlier distillation device
