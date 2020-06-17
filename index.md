@@ -9,10 +9,10 @@ layout: page
 {% include figure.html image="/assets/pictures/Headshot.jpg"  position="right" width="200"%}  
 
 Howdy ! I am a PhD student under Prof Raul Longoria at The University of Texas at Austin. My [research](https://sites.utexas.edu/longoria/system-modeling-estimation-and-control-for-cardiovascular-systems-with-mechanical-circulatory-support/) focuses on estimation of physiological parameters and control of a Left Ventricular Assist Device. Other research interests include :
-  * Switched system observers
+  * Control and Estimation of stochastic dynamical systems
   * System modeling
   * Hardware-in-loop testing for cyber-physical Systems  
-  
+
 When I am not working, I like to [sing](https://www.youtube.com/channel/UCYewUFOsCTZMeMXMcURmbag), or click [photos](https://www.instagram.com/surajpawarclicks/).
 
 ----
