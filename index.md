@@ -18,7 +18,7 @@ When I am not working, I like to [sing](https://www.youtube.com/channel/UCYewUFO
 
 |<i class='fa fa-graduation-cap'></i> __Master of Science__, Mechanical Engineering | 2019 |
 |<small> The University of Texas at Austin </small>| |
-|<i class='fa fa-graduation-cap'></i> __Bachelor of Science (Hons)__, Mechanical Engineering | 2013 |
+|<i class='fa fa-graduation-cap'></i> __Bachelor of Engineering (Hons)__, Mechanical Engineering | 2013 |
 |<small> Birla Institute of Technology and Science, Pilani </small>| |
 
 <br>
