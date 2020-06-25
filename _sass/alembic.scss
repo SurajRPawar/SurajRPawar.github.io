@@ -1,3 +1,9 @@
+// Enable scrolling in long equations
+.MathJax_Display, .MJXc-display, .MathJax_SVG_Display {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
 @charset "utf-8";
 
 // Import frameworks & theme styles
