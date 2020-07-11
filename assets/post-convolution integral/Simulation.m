@@ -28,10 +28,12 @@ clear all; close all; clc;
     
     % Homogenous response
     parameters(5) = 0;
+    parameters(4) = 0;
     [t1,x1] = ode45(@(t,x) msd(t,x,parameters),t,x0);
     
     % Input response
     parameters(5) = amp;
+    parameters(4) = g;
     [t2,x2] = ode45(@(t,x) msd(t,x,parameters),t,[0;0]);
     
     % Combined Solution
