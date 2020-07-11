@@ -118,5 +118,5 @@ You can download the simulate file [here](\assets\post-convolution integral\Simu
 ##### References and Notes
 [^1]: Kailath, Thomas. Linear systems. Vol. 156. Englewood Cliffs, NJ: Prentice-Hall, 1980.
 [^2]: Gelb, A. (Ed.). (1974). Applied optimal estimation. MIT press.
-[^3]: Actually this equation is value for Linear Time-Varying systems as well. 
+[^3]: Actually this equation is valid for Linear Time-Varying systems as well. 
 [^4]: d'Angelo, H. (1970). Linear time-varying systems: analysis and synthesis.
